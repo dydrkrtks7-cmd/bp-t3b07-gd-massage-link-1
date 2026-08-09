@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hongdae-room-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://hongdae-room-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
